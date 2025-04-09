@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShraddhaSonare
-- 👀 I’m interested in Competitive Programming,Web Development and Data Science
+- 👀 I’m interested in Web Development and Data Science
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Cloud Computing
 - 📫 How to reach me linkedin.com/in/shraddhasonare
